@@ -48,7 +48,7 @@ DuckBehavior/
    ```
 2. Compile all Java files:
    ```bash
-   javac *.java
+   javac Main.java
    ```
 3. Run the program:
    ```bash
